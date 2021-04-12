@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-color: pink
+}
+
+h1 {
+    color: blueviolet;
+}
+
+a {
+    color: mediumblue;
+    text-decoration: none;
+    border-bottom: 1px dotted navy;
+}
